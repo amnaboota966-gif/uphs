@@ -9,7 +9,7 @@ const index = () => {
       <main className="max-w-5xl w-full px-4 py-12">
 
         {/* Title */}
-        <h1 className="text-4xl font-bold text-center text-gray-800 mb-6">
+        <h1 className="text-4xl font-bold text-center text-green-800 mb-6">
           Welcome to Our School
         </h1>
 
@@ -28,7 +28,7 @@ const index = () => {
 
         {/* About School */}
         <section className="mb-10 bg-white rounded-2xl shadow p-6">
-          <h2 className="text-2xl font-semibold mb-3 text-gray-800">
+          <h2 className="text-2xl font-semibold mb-3 text-green-600">
             <Link href="/about" >About Our School</Link> 
           </h2>
           <p className="text-gray-600">
@@ -41,21 +41,21 @@ const index = () => {
         <section className="grid sm:grid-cols-2 lg:grid-cols-3 gap-6 mb-10">
 
           <div className="bg-white p-6 rounded-xl shadow text-center">
-            <h3 className="text-xl font-bold mb-2">Qualified Teachers</h3>
+            <h3 className="text-green-600 text-xl font-bold mb-2">Qualified Teachers</h3>
             <p className="text-gray-600">
               Experienced and trained teachers.
             </p>
           </div>
 
           <div className="bg-white p-6 rounded-xl shadow text-center">
-            <h3 className="text-xl font-bold mb-2">Library</h3>
+            <h3 className="text-green-600 text-xl font-bold mb-2">Library</h3>
             <p className="text-gray-600">
               A quiet place for reading and learning.
             </p>
           </div>
 
           <div className="bg-white p-6 rounded-xl shadow text-center">
-            <h3 className="text-xl font-bold mb-2">Computer Lab</h3>
+            <h3 className="text-green-600 text-xl font-bold mb-2">Computer Lab</h3>
             <p className="text-gray-600">
               Modern computers for students.
             </p>

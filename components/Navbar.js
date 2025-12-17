@@ -12,7 +12,7 @@ const Navbar = () => {
       <a className="mr-5 hover:text-gray-900 text-xl" href='/'>Home</a>
       <a className="mr-5 hover:text-gray-900 text-xl" href='/about'>About</a>
       <a className="mr-5 hover:text-gray-900 text-xl" href='/contactus'>Contactus</a>
-      <a className="mr-5 hover:text-gray-900 text-xl" href='/liburary'>Liburary</a>
+      <a className="mr-5 hover:text-gray-900 text-xl" href='/liburary'>Library</a>
       <a className="mr-5 hover:text-gray-900 text-xl" href='/students'>Students</a>
       <a className="mr-5 hover:text-gray-900 text-xl" href='/computerlab'>Computerlab</a>
     </nav>

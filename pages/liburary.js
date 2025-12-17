@@ -43,31 +43,31 @@ export default function Library() {
             <div className="bg-white p-5 rounded-xl shadow">
               <h3 className="text-lg font-bold">English Grammar</h3>
               <p className="text-gray-600">Author: Wren & Martin</p>
-              <p className="text-sm text-blue-600">Subject: English</p>
+              <p className="text-sm text-green-600">Subject: English</p>
             </div>
 
             <div className="bg-white p-5 rounded-xl shadow">
               <h3 className="text-lg font-bold">Mathematics</h3>
               <p className="text-gray-600">Author: R.D. Sharma</p>
-              <p className="text-sm text-blue-600">Subject: Math</p>
+              <p className="text-sm text-green-600">Subject: Math</p>
             </div>
 
             <div className="bg-white p-5 rounded-xl shadow">
               <h3 className="text-lg font-bold">General Science</h3>
               <p className="text-gray-600">Author: John Smith</p>
-              <p className="text-sm text-blue-600">Subject: Science</p>
+              <p className="text-sm text-green-600">Subject: Science</p>
             </div>
 
             <div className="bg-white p-5 rounded-xl shadow">
               <h3 className="text-lg font-bold">Pakistan Studies</h3>
               <p className="text-gray-600">Author: A. Khan</p>
-              <p className="text-sm text-blue-600">Subject: History</p>
+              <p className="text-sm text-green-600">Subject: History</p>
             </div>
 
             <div className="bg-white p-5 rounded-xl shadow">
               <h3 className="text-lg font-bold">Computer Basics</h3>
               <p className="text-gray-600">Author: Sara Ali</p>
-              <p className="text-sm text-blue-600">Subject: Computer</p>
+              <p className="text-sm text-green-600">Subject: Computer</p>
             </div>
 
           </div>
